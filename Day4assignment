@@ -1,0 +1,7 @@
+import statistics as stat
+stat.mean([1,2,3,4])
+stat. median([1,2,3,4,50])
+stat. mode([1,2,3,4,3,4,4,5,1])
+stat. harmonic_mean([1,2,3,4])
+stat.stdev([1,2,5,500,100])
+stat. variance([1,2,4,5,500,100])
