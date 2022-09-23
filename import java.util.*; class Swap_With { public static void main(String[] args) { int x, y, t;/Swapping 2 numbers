@@ -1,0 +1,5 @@
+// x and y are to swap.
+Scanner sc = new Scanner(System.in);
+ System.out.println("Enter the value of X and Y");
+x = sc.nextInt();
+y = sc.nextInt();
